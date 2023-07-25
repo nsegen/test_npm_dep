@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nsegen/test_npm_dep.git"
+    "url": "git+ssh://git@github.com:nsegen/test_npm_dep.git"
   },
   "author": "nsegen",
   "license": "ISC",
