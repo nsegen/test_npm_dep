@@ -1,0 +1,19 @@
+{
+  "name": "test_npm_dep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsegen/test_npm_dep.git"
+  },
+  "author": "nsegen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsegen/test_npm_dep/issues"
+  },
+  "homepage": "https://github.com/nsegen/test_npm_dep#readme"
+}
